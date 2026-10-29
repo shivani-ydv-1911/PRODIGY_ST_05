@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="PRODIGY_ST_05 Shoplane E-Commerce Checkout Suite" verbose="1">
+    <test name="E-Commerce Checkout Tests">
+        <classes>
+            <class name="com.prodigy.task5.tests.EcommerceCheckoutTest"/>
+        </classes>
+    </test>
+</suite>
